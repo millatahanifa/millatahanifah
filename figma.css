@@ -1,0 +1,217 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+.body{
+    background-color: rgb(148, 57, 148);
+}
+html {
+    scroll-behavior: smooth;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(180, 109, 180);
+    font-size: 30px;
+    display: flex;
+    position: fixed;
+    width: 100%;
+}
+.kotak a {
+    text-decoration: none;
+}
+button {
+    width: 100px;
+    height: 25px;
+     background-color: rgb(221, 184, 221)
+}
+li {
+    float: left;
+}
+
+li {
+    display: block;
+    color: rgb(3, 3, 3);
+    text-align: center;
+    padding: 2px 50px;
+    text-decoration: none;
+}
+.kotak {
+    width: 100%;
+    background-color: rgb(3, 2, 2);
+
+}
+
+.beranda {
+    width: 100%;
+    
+    display: flex;
+}
+.beranda h1{
+    padding-top: 20px;
+    padding-left: 80px;
+}
+.beranda p{
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-bottom: 35px;
+}
+.selengkap button{
+    margin-left: 70px;
+    border-radius: 5px;
+}
+.luar{
+    background-color: rgb(133, 93, 133);
+}
+.profil {
+    width: 100%;
+    display: flex;
+    background-color: rgb(168, 147, 168);
+}
+.history h1{
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.history p{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.vision h1{
+    padding-top: 20px;
+    padding-left: 780px;
+}
+.vision p{
+    padding-top: 20px;
+    padding-left: 720px;
+    padding-bottom: 20px;
+}
+.seleng button{
+    margin-left: 750px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.kurikulum{
+    width: 100%;
+    display: flex;
+    background-color: rgb(139, 90, 139);
+}
+.kotak3 h1{
+    padding-top: 50px;
+    padding-left: 550px;
+}
+.kotak3 p{
+    padding-top: 50px;
+    padding-left: 380px;
+    padding-bottom: 50px;
+}
+.pengajar{
+    width: 100%;
+    background-color: rgb(179, 154, 179);
+}
+.pengajar h1{
+    padding-top: 30px;
+    padding-left: 600px;
+    padding-bottom: 100px;
+}
+.bloka{
+    display: flex;
+    margin-left: 260px;
+    gap: 125px;
+}
+.blokb{
+    display: flex;
+    margin-left: 260px;
+    gap: 150px;
+}
+.blokc{
+    display: flex;
+    margin-left: 260px;
+    gap: 125px;
+}
+.blokd{
+    display: flex;
+    margin-left: 260px;
+    gap: 150px;
+    padding-bottom: 20px;
+}
+.fasilitas{
+    width: 100%;
+    display: flex;
+    background-color: rgb(131, 85, 131);
+}
+.ruangan h1{
+    padding-top: 20px;
+    padding-left: 150px;
+}
+.ruangan p{
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.text img{
+    padding-left: 130px;
+    padding-bottom: 20px;
+}
+.kontak {
+    width: 100%;
+    background-color: rgb(179, 154, 179);
+}
+.kontak h1{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+.bagian1 label{
+    padding-top: 20px;
+    padding-left: 50px;
+    margin-bottom: 12px;
+}
+.bagian1 input{
+    padding-left: 200px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.bagian2 label{
+    padding-top: 20px;
+    padding-left: 50px;
+    margin-bottom: 12px;
+}
+.bagian2 input{
+    padding-left: 200px;
+    border-radius: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.bagian3 label{
+    padding-top: 20px;
+    padding-left: 50px;
+    margin-bottom: 12px;
+}
+.bagian3 input{
+    padding-left: 200px;
+    border-radius: 20px;
+    padding-bottom: 100px;
+    margin-bottom: 10px;
+}
+.bagian4 button{
+    margin-left: 410px;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+.kontak{
+    display: flex;
+    justify-content: space-between;
+}
+.kontak1 {
+    margin-left: 30px;
+}
+.follow{
+    margin-right: 300px;
+    padding-bottom: 70px;
+    padding-top: 20px;
+}
